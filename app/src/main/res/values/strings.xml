@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UniversalPlugNPlayDemo</string>
+    <string name="deviceDetailsNotYetAvailable">Local Near By Plug N Play Device Not Available</string>
+    <string name="deviceDetails">Details Of Devices Connected</string>
+    <string name="OK">OK</string>
+</resources>
